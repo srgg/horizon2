@@ -1,4 +1,4 @@
-package config
+package comfig
 
 import (
 	"github.com/srgg/horizon/client"
